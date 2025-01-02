@@ -54,6 +54,7 @@ dependencies {
     testImplementation(libs.junit)
     implementation (libs.retrofit)
     implementation(libs.logging.interceptor)
+    implementation (libs.glide.compose)
     implementation (libs.converter.gson)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
